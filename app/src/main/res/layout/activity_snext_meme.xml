@@ -9,7 +9,7 @@
 
     <ImageView
         android:id="@+id/thirdImage"
-        android:layout_width="556dp"
+        android:layout_width="0dp"
         android:layout_height="444dp"
         android:layout_marginTop="48dp"
         app:layout_constraintEnd_toEndOf="parent"
@@ -20,13 +20,14 @@
 
     <TextView
         android:id="@+id/tvMemeThree"
-        android:layout_width="388dp"
+        android:layout_width="0dp"
         android:layout_height="41dp"
         android:layout_marginStart="28dp"
         android:layout_marginTop="8dp"
         android:layout_marginEnd="28dp"
         android:background="#FFFFFF"
         android:text="After copying codes from five 5 sites and it works but you dont know why"
+        android:textColor="#673AB7"
         android:textSize="16sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.515"
@@ -35,9 +36,9 @@
 
     <ImageView
         android:id="@+id/btnPrevThree"
-        android:layout_width="wrap_content"
+        android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:layout_marginTop="32dp"
+        android:layout_marginTop="86dp"
         android:layout_marginEnd="220dp"
         android:layout_marginBottom="139dp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -48,9 +49,9 @@
 
     <ImageView
         android:id="@+id/btnNextThree"
-        android:layout_width="wrap_content"
+        android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:layout_marginTop="35dp"
+        android:layout_marginTop="89dp"
         android:layout_marginBottom="139dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
